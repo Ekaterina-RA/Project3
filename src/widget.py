@@ -26,3 +26,4 @@ def get_date(date: str) -> str:
     date_part = date_str.split('T')[0]
     year, month, day = date_part.split('-')
     return f"{day}.{month}.{year}" #Форматируем дату в нужный формат
+
