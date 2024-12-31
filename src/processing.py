@@ -1,15 +1,21 @@
-def filter_by_state(data: str, state='EXECUTED'):
+from typing import Dict, List
+
+
+def filter_by_state(list_dict: List[Dict], key: str = "EXECUTED") -> List[Dict]:
+    """Принимает список словарей и значение ключа state (по умолчанию 'EXECUTED').
+    Функция возвращает новый список словарей, содержащий словари соответствующих ключу
     """
-    Фильтрует список словарей по значению ключа 'state'.
-
-    :param data: Список словарей, каждый из которых должен содержать ключ 'state'.
-    :param state: Значение для фильтрации (по умолчанию 'EXECUTED').
-    :return: Новый список, содержащий только те словари, у которых ключ 'state' соответствует указанному значению.
-    """
-    return [item for item in data if item.get('state') == state]
+    new_list = []
+    for each_dict in list_dict:
+        if each_dict["state"] == key:
+            new_list.append(each_dict)
+    return new_list
 
 
-
-def sort_by_date(base_idtime, reverse=False):
-    return sorted(base_idtime, key = lambda x: [x]['date'], reverse=reverse)
-print(sorted)
+def sort_by_date(list_dict: List[Dict], sort_arg: bool = True) -> List[Dict]:
+    """Принимает список словарей и параметр сортировки(по умолчанию "True" — 'CANCELED').
+    Функция возвращает новый список, отсортированный по дате"""
+    sort_list = sorted(
+        list_dict, key=lambda each_dict: each_dict["date"], reverse=sort_arg
+    )
+    return sort_list
