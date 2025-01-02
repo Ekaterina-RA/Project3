@@ -18,4 +18,5 @@ def sort_by_date(list_dict: List[Dict], sort_arg: bool = True) -> List[Dict]:
     sort_list = sorted(
         list_dict, key=lambda each_dict: each_dict["date"], reverse=sort_arg
     )
+    sort_list = sorted(list_dict, key=lambda each_dict: each_dict["date"], reverse=sort_arg)
     return sort_list
