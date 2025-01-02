@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="8c663f65-774d-46b8-95cd-81c83d75c88c" name="Changes" comment="new changes made" />
 =======
     <list default="true" id="8c663f65-774d-46b8-95cd-81c83d75c88c" name="Changes" comment="Functions added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
 >>>>>>> origin/feature/homework
+=======
+    <list default="true" id="8c663f65-774d-46b8-95cd-81c83d75c88c" name="Changes" comment="Functions added" />
+>>>>>>> 10714c01a0a9bdb95b141c491980c626c81e4da8
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +41,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ekaterina-RA&quot;
+  }
+}</component>
+>>>>>>> 10714c01a0a9bdb95b141c491980c626c81e4da8
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Ekaterina-RA/Project3.git&quot;,
@@ -65,6 +78,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\PycharmProjects\PythonProject1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
