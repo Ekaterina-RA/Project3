@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
     <list default="true" id="8c663f65-774d-46b8-95cd-81c83d75c88c" name="Changes" comment="new changes made" />
-=======
+
     <list default="true" id="8c663f65-774d-46b8-95cd-81c83d75c88c" name="Changes" comment="Functions added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
->>>>>>> origin/feature/homework
+    <list default="true" id="8c663f65-774d-46b8-95cd-81c83d75c88c" name="Changes" comment="Functions added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +36,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ekaterina-RA&quot;
+  }
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Ekaterina-RA/Project3.git&quot;,
@@ -57,14 +63,18 @@
     &quot;Python.processing.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-<<<<<<< HEAD
+
     &quot;git-widget-placeholder&quot;: &quot;feature/homework&quot;,
-=======
+
     &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
->>>>>>> origin/feature/homework
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\PycharmProjects\PythonProject1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734457376037</updated>
     </task>
-<<<<<<< HEAD
+
     <task id="LOCAL-00001" summary="new changes made">
       <option name="closed" value="true" />
       <created>1735577648458</created>
@@ -99,7 +109,7 @@
       <updated>1735661880840</updated>
     </task>
     <option name="localTasksCounter" value="3" />
-=======
+
     <task id="LOCAL-00001" summary="Functions added">
       <option name="closed" value="true" />
       <created>1735656555985</created>
@@ -109,7 +119,6 @@
       <updated>1735656555985</updated>
     </task>
     <option name="localTasksCounter" value="2" />
->>>>>>> origin/feature/homework
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,12 +133,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-<<<<<<< HEAD
+
     <MESSAGE value="new changes made" />
     <option name="LAST_COMMIT_MESSAGE" value="new changes made" />
-=======
+
     <MESSAGE value="Functions added" />
     <option name="LAST_COMMIT_MESSAGE" value="Functions added" />
->>>>>>> origin/feature/homework
   </component>
 </project>
