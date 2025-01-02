@@ -29,7 +29,6 @@ print(executed_items)
 # Выход функции, если вторым аргументом передано 'CANCELED'
 canceled_items = filter_by_state(list_dict, key="CANCELED")
 print(canceled_items)
-print(canceled_items)
 
 sorted_list = [
     {"id": 41428829, "state": "EXECUTED", "date": "2019-07-03T18:35:29.512364"},
