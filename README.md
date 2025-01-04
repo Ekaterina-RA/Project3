@@ -10,4 +10,3 @@
 ##Установка:
  - Клонируйте репозиторий: git clone git@github.com:Ekaterina-RA/Project3.git
  - Установите необходимые зависимости: poetry install --group lint
-
