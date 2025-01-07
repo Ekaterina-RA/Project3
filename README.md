@@ -10,4 +10,6 @@
 ##Установка:
  - Клонируйте репозиторий: git clone git@github.com:Ekaterina-RA/Project3.git
  - Установите необходимые зависимости: poetry install --group lint
+## Тестирование функций get_mask_card_number, get_mask_account, mask_account_card, get_date, filter_by_state, sort_by_date:
+- 
 
