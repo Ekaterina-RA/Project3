@@ -8,30 +8,20 @@ from src.generators import card_number_generator
     "start, end, expected",
     [
         (
-            4000000000000000,
-            4000000000000005,
+            1,
+            5,
             [
-                "4000 0000 0000 0000",
-                "4000 0000 0000 0001",
-                "4000 0000 0000 0002",
-                "4000 0000 0000 0003",
-                "4000 0000 0000 0004",
-                "4000 0000 0000 0005",
+                "0000 0000 0000 0001",
+                "0000 0000 0000 0002",
+                "0000 0000 0000 0003",
+                "0000 0000 0000 0004",
+                "0000 0000 0000 0005",
             ],
         ),
-        (
-            1234567890123450,
-            1234567890123453,
-            [
-                "1234 5678 9012 3450",
-                "1234 5678 9012 3451",
-                "1234 5678 9012 3452",
-                "1234 5678 9012 3453",
-            ],
-        ),
+        (10, 12, ["0000 0000 0000 0010", "0000 0000 0000 0011", "0000 0000 0000 0012"]),
     ],
 )
-def test_card_number_generator(card_number_range, start, end, expected):
+def test_card_number_generator(start, end, expected):
     generated_numbers = list(card_number_generator(start, end))
     assert generated_numbers == expected
 
@@ -39,9 +29,9 @@ def test_card_number_generator(card_number_range, start, end, expected):
 # Тестирование генератора для крайних значений диапазона
 def test_card_number_generator_edge_cases():
     # Генерация для одного номера
-    generated_numbers = list(card_number_generator(4000000000000000, 4000000000000000))
-    assert generated_numbers == ["4000 0000 0000 0000"]
+    generated_numbers = list(card_number_generator(1, 1))
+    assert generated_numbers == ["0000 0000 0000 0001"]
 
     # Генерация для пустого диапазона
-    generated_numbers = list(card_number_generator(4000000000000000, 3999999999999999))
+    generated_numbers = list(card_number_generator(5, 4))
     assert generated_numbers == []  # Ожидаем пустой список

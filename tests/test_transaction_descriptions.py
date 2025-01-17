@@ -40,3 +40,9 @@ def test_transaction_descriptions_incomplete(transactions_data):
         "Перевод со счета на счет",
         "Перевод с карты на карту",
     ]
+
+
+def test_transaction_descriptions_single():
+    single_transaction = [{"description": "Перевод организации"}]
+    generated_descriptions = list(transaction_descriptions(single_transaction))
+    assert generated_descriptions == ["Перевод организации"]
