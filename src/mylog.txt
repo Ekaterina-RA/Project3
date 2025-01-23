@@ -1,0 +1,10 @@
+2025-01-23 20:52:21,707 INFO:Starting my_function with arguments (1, 2), {}
+2025-01-23 20:52:21,708 INFO:my_function ok, result: 3
+2025-01-23 20:52:21,708 INFO:Starting my_function_with_error with arguments (0,), {}
+2025-01-23 20:52:21,708 ERROR:my_function_with_error: ZeroDivisionError. Inputs: (0,), {}
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
