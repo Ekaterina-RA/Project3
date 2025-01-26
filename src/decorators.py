@@ -2,10 +2,12 @@ from functools import wraps
 
 
 def log(filename=None):
+    """Декоратор log автоматически логирует начало и конец выполнения функции"""
+
     def decorator(function):
         @wraps(function)
         def wrapper(*args, **kwargs):
-            """Подготовка сообщения для начала выполнения"""
+            # Подготовка сообщения для начала выполнения#
             start_message = (
                 f"Starting {function.__name__} with arguments {args}, {kwargs}"
             )
