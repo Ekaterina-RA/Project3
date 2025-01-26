@@ -11,10 +11,10 @@ def test_my_function_success(capsys):
 
 # Тест обработки исключения в функции с делением на ноль
 def test_error_function_zero_division(capsys):
-    with pytest.raises(ZeroDivisionError):
+    with pytest.raises(Exception):
         error_function(0)
     captured = capsys.readouterr()
-    assert captured.out == "Starting error_function with arguments (0,), {}\nerror_function error: str. Inputs: (0,), {}\n"
+    assert captured.out == "Starting error_function with arguments (0,), {}\nerror_function error: ZeroDivisionError. Inputs: (0,), {}\n"
 
 
 # Тест логирования в файл

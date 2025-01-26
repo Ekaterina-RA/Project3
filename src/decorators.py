@@ -35,7 +35,7 @@ def log(filename=None):
 
             except Exception as e:
                 # Подготовка сообщения об ошибке
-                message_error = f"{function.__name__} error: {str(e).__class__.__name__}. Inputs: {args}, {kwargs}"
+                message_error = f"{function.__name__} error: {type(e).__name__}. Inputs: {args}, {kwargs}"
                 # Логируем ошибку
                 if filename:
                     with open(filename, "a") as file:
