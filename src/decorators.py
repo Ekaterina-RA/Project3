@@ -43,7 +43,7 @@ def log(filename=None):
                 else:
                     print(message_error)
 
-                raise Exception
+                raise
 
         return wrapper
 
