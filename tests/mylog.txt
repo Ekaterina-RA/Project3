@@ -1,0 +1,308 @@
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (2, 3), {}
+my_function successful, result: 5
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (2, 3), {}
+my_function successful, result: 5
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (2, 3), {}
+my_function successful, result: 5
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5,), {}
+my_function error: str. Inputs: (5,), {}
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (3, 4), {}
+my_function successful, result: 7
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (3, 4), {}
+my_function successful, result: 7
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with inputs: (1, 2), {}
+my_function ok, result: 3, elapsed time: 0.0 seconds
+Starting my_function with inputs: (1, 2), {}
+my_function ok, result: 3, elapsed time: 0.0 seconds
+Starting my_function with inputs: (1, 2), {}
+my_function ok, result: 3, elapsed time: 0.0 seconds
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (5, 10), {}
+my_function successful, result: 15
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
+Starting my_function with arguments (1, 2), {}
+my_function successful, result: 3
