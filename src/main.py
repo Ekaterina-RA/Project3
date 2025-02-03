@@ -7,6 +7,7 @@
 # from src.processing import filter_by_state, sort_by_date
 # from src.widget import get_date, mask_account_card
 from src.external_api import convert_to_rub
+
 #
 #
 #
@@ -180,7 +181,6 @@ from src.external_api import convert_to_rub
 #     print(card_number)
 
 
-
 transaction_usd = {"amount": 100, "currency": "USD"}
 transaction_eur = {"amount": 100, "currency": "EUR"}
 transaction_rub = {"amount": 100, "currency": "RUB"}
@@ -191,7 +191,7 @@ print(convert_to_rub(transaction_rub))  # Сумма в рублях
 
 from utils import read_json_transactions
 
-file_path = 'data/operations.json'
+file_path = "data/operations.json"
 
 transactions = read_json_transactions(file_path)
 print(transactions)

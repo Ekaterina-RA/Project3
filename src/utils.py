@@ -12,7 +12,7 @@ def read_json_transactions(file_path: str) -> list:
 
     # Пытаемся открыть и прочитать JSON-файл
     try:
-        with open(file_path, 'r') as f:
+        with open(file_path, "r") as f:
             data = json.load(f)
             # Проверяем, содержит ли данные список
             if isinstance(data, list):
@@ -22,4 +22,3 @@ def read_json_transactions(file_path: str) -> list:
     except json.JSONDecodeError:
         # Если файл пустой, поврежден или другая ошибка, возвращаем пустой список
         return []
-
